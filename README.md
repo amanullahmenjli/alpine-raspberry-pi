@@ -1,4 +1,4 @@
-# Alpine Raspberry PI
+# Alpine Raspberry PI for Hestia
 
 A very customizable set of scripts to build a [System Disk Mode](https://wiki.alpinelinux.org/wiki/Installation#System_Disk_Mode) installation image of Alpine Linux for the Raspberry Pi, ready to be burnt to an SD.
 
